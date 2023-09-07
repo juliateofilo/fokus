@@ -1,2 +1,2 @@
 # fokus
-Projeto fokus realizado com a manipulação de elementos no DOOM
+Projeto fokus realizado com a manipulação de elementos no DOM
